@@ -1,4 +1,4 @@
-# Heaart-Disease-Classification
+# Heart-Disease-Classification
 ## Machine Learning Classification Model to Predict Heart Disease
 
 > This notebook looks into using various Python-based libraries in an attempt to build a machine learning model capable of predicting whether of not someone has heart disease based on specific medical attributes.
@@ -41,5 +41,12 @@ If we can reach 95% accuacy at predicting whether of not a patient has heart dis
 * number of major vessels (0-3) colored by flourosopy
 * thal: 3 = normal; 6 = fixed defect; 7 = reversable *defect
 
+#### 5. Model
+> Linear Regression
+>> Hyperparameters that give us the best score with 2 iterations of RandomizedRearchCV: C = 0.1082636733874054, solver = 'liblinear' 
 #### Final Metrics
+![alt text](https://github.com/vbgupta/Heaart-Disease-Classification/blob/main/download.png?raw=true)
+
+![alt text](https://github.com/vbgupta/Heaart-Disease-Classification/blob/main/download%20(1).png?raw=true)
+
 
